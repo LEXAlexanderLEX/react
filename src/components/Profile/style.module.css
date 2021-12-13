@@ -1,0 +1,16 @@
+.card{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: blueviolet;
+}
+
+.cardbottom{
+    display: flex;
+    justify-content: space-around;
+    background-color: cadetblue;
+}
+img{
+    width: 200px;
+    margin: 10px;
+}
